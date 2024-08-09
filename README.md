@@ -26,7 +26,7 @@ Interested in learning more or contributing to the research efforts of PQAR? Rea
 
 ### Contact
 
-For inquiries or further information, please visit [pqar.net](https://pqar.net) or contact us at [email@pqar.net](mailto:email@pqar.net).
+For inquiries or further information, please visit [pqar.net](https://pqar.net) or contact us at [admin@pqar.net](mailto:admin@pqar.net).
 
 ---
 
