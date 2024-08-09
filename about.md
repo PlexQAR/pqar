@@ -28,4 +28,4 @@ PQAR is committed to scientific discovery and the development of technologies th
 
 For more information about PQAR or to get involved, please contact us at:
 
-[info@pqar.net](mailto:info@pqar.net)
+[admin@pqar.net](mailto:admin@pqar.net)
