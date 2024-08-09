@@ -15,6 +15,6 @@ This document provides links to the text of various LibreSphere licenses used by
 - [LibreSphere Special Restricted License v1.0](licenses/LibreSphere_Special_Restricted_License_v1.0.txt)
 
 # What is LibreSphere? What are licenses doing in PQAR?
-PQAR not only innovated the scientific arena, but also the legal. PQAR makes licenses to make sharing software easier and safer for our projects and anyone to use. LibreSphere is like a branch of PQAR which is only licenses.
+PQAR makes licenses to make sharing software easier and safer for our projects and anyone to use. LibreSphere is like a branch of PQAR which is only licenses.
 
-The licenses here are provided in plain text format. You can use any of the licenses for your own projects, ideas, etc.
+The licenses here are provided in plain text format. You can use any of the licenses for your own projects, ideas, etc. All licenses are made to be short and to the point, making easier and smaller files for licenses and software, and making it easy for the user of a software to read the license.
