@@ -1,0 +1,36 @@
+LibreSphere Special Restricted License v1.0
+Copyright (c) 2024 Plex Quantum Atomic Research
+
+This License governs the use, distribution, and modification of software licensed under the LibreSphere Special Restricted License v1.0.
+
+Terms and Conditions
+
+1. Restrictions
+1.1. You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Work.
+1.2. You may not decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code from the Work.
+
+2. Availability
+2.1. The Work is publicly available solely for viewing and research purposes.
+2.2. No further rights or permissions are granted beyond the ability to view the Work.
+
+3. Ownership
+3.1. The copyright in the Work remains with the Licensor. No ownership rights are transferred to You under this License.
+
+4. No Warranty
+4.1. The Work is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Work or the use or other dealings in the Work.
+
+5. No License Grant
+5.1. This License does not grant You any rights or permissions other than those expressly stated herein.
+
+6. Acceptance
+6.1. By accessing or viewing the Work, You accept the terms and conditions of this License. If You do not accept these terms and conditions, You must not access or view the Work.
+
+7. Termination
+7.1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have viewed the Work from You under this License, however, will not have their permissions terminated provided such individuals or entities remain in full compliance with those permissions.
+
+8. Miscellaneous
+8.1. This License represents the complete agreement concerning the subject matter hereof.
+8.2. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. The remaining provisions shall remain in full force and effect.
+
+Attribution
+The LibreSphere Special Restricted License v1.0 should be included in all copies or substantial portions of the Work.
