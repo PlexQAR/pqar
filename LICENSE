@@ -1,20 +1,30 @@
-The MIT License (MIT)
+LibreSphere MIT Extended License
+Based on the MIT License.
 
-Copyright (c) 2015 Barry Clark
+Copyright (c) 2024 Plex Quantum Atomic Research
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Attribution: The above copyright notice, this permission notice, and the following terms shall be included in all copies or substantial portions of the Software. The attribution must be visible to end users if the software is distributed as part of a user interface, and in accompanying documentation if not.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+2. Scope of Use: The Software may be used, modified, and distributed for both commercial and non-commercial purposes. This includes integration into proprietary software or open-source projects, provided that the conditions of this license are met.
+
+3. Modification: Modifications to the Software are permitted. However, any modified versions that are distributed must carry prominent notices stating that the original work has been modified, along with a summary of the changes made.
+
+4. Redistribution: Redistribution of the Software, whether modified or unmodified, must include this license in its entirety. The Software may be redistributed as part of a larger work, but the terms of this license must apply to the Software itself within that work.
+
+5. Sublicensing: Sublicensing of the Software is permitted under the condition that the terms of this license are applied to the sublicensee in full. The sublicensee must adhere to all terms of this license as if they were the original licensee.
+
+6. Liability Disclaimer: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Indemnification: By using, modifying, or distributing the Software, the licensee agrees to indemnify and hold harmless the authors and copyright holders from and against any and all claims, damages, and liabilities, including legal fees, arising out of or related to the use or distribution of the Software.
+
+8. Termination: The rights granted under this license will terminate automatically if the licensee fails to comply with any of the terms. Upon termination, the licensee must cease all use, modification, and distribution of the Software. However, reinstatement is possible if the licensee rectifies the non-compliance.
+
+9. Jurisdiction: This license shall be governed by and construed in accordance with the laws of Ft. Lauderdale, Florida. Any disputes arising under or in connection with this license shall be resolved in the courts of Ft. Lauderdale, Florida.
+
+10. Severability: If any provision of this license is found to be unenforceable or invalid by a court of competent jurisdiction, the remaining provisions shall remain in effect.
+
+11. Export Compliance: The licensee agrees to comply with all applicable export control laws and regulations in the use, modification, and distribution of the Software.
+
+12. Use of Trademarks: This license does not grant permission to use the trade names, trademarks, service marks, or product names of the copyright holder, except as required for describing the origin of the Software and reproducing the content of the notice.
