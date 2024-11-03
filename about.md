@@ -1,31 +1,46 @@
 ---
 layout: page
-title: About PQAR
+title: Projects
 permalink: /about/
 ---
 
 ## About PQAR
 
-**Plex Quantum Atomic Research (PQAR)** is an ambitious research project focused on advancing knowledge in nuclear science, quantum physics, and specialized computing systems. The project's mission is to develop innovative technologies that push the boundaries of modern science.
+**Plex Quantum Atomic Research (PQAR)** is an ambitious research project focused on advancing knowledge and developing innovative technologies in nuclear science and related fields. 
 
 ### Our Projects
 
-PQAR encompasses several groundbreaking initiatives, including:
+PQAR is currently developing the **HGCTR (Hybrid Gas Cooled Transmutation Reactor)**. This groundbreaking project represents a significant step forward in nuclear energy technology, addressing critical challenges in waste management and power generation.
 
-- **IB-CLS (Internal Busy-Core Linux System)**: A custom Linux system designed to support diverse hardware platforms, ranging from Raspberry Pi to industrial machinery.
+**HGCTR Overview:**
 
-- **MMTR-2380 (Modular Magnox Type Reactor 2380)**: A nuclear reactor developed for research and radiation testing, utilizing pure U-238 natural uranium fuel.
+The HGCTR is designed to:
 
-- **MRPA (Modular Research Particle Accelerator)**: A project focused on researching muons and dark matter using a modular particle accelerator.
+* **Transmute spent nuclear fuel:** By converting long-lived radioactive isotopes into shorter-lived or stable elements, the HGCTR effectively recycles nuclear waste, minimizing its environmental impact and contributing to a more sustainable fuel cycle.
+* **Generate clean energy:** The HGCTR utilizes a gas-cooled fast reactor design for efficient heat transfer and power generation, providing a reliable source of clean energy.
+* **Optimize resource utilization:**  The HGCTR's ability to process spent fuel reduces the demand for fresh uranium mining, promoting responsible resource management.
 
-- **TPR (Transmutation Power Reactor)**: A nuclear reactor project aimed at processing used nuclear fuels while efficiently generating energy.
+**Key Features:**
 
-### More Information
+* **Hybrid design:** Combining the benefits of fast reactors and transmutation technology.
+* **Gas-cooled:** Utilizing helium as a coolant for enhanced safety and efficiency.
+* **Advanced materials:** Employing specialized materials for optimal performance and neutron moderation.
+* **Innovative core configuration:**  Strategic placement of fuel, coolant, and moderator for maximized efficiency and safety.
 
-PQAR is committed to scientific discovery and the development of technologies that have the potential to make a significant impact. The project's work spans multiple disciplines, constantly exploring new research avenues to contribute to global scientific progress.
+**OpenMC Simulation:**
+
+The HGCTR design has been successfully implemented in OpenMC, a powerful Monte Carlo particle transport code. Extensive simulations are being conducted to assess its performance, safety, and operational characteristics.
+
+**PQAR's Commitment:**
+
+PQAR is dedicated to pushing the boundaries of nuclear technology through rigorous research and development. The HGCTR project exemplifies our commitment to creating sustainable and efficient energy solutions while addressing the challenges of nuclear waste.
+
+**Other Projects:**
+
+PQAR has stopped all other projects to focus and finish on one at a time.
 
 ### Contact Us
 
-For more information about PQAR or to get involved, please contact us at:
+For more information about PQAR or the HGCTR project, please contact us at:
 
 [admin@pqar.net](mailto:admin@pqar.net)

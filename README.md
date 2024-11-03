@@ -2,15 +2,6 @@
 
 **PQAR** (Plex Quantum Atomic Research) is a research project dedicated to advancing nuclear technology and energy solutions. The focus is on innovative nuclear systems, including reactor designs and particle accelerators, to address energy efficiency, waste management, and scientific research.
 
-## Projects
-
-PQAR is currently developing the **HGCTR (Hybrid Gas Cooled Transmutation Reactor)**. This innovative reactor design aims to:
-
-* **Generate a significant amount of clean energy:** The HGCTR utilizes a gas-cooled fast reactor design for efficient heat transfer and power generation.
-* **Process spent nuclear fuel:** The HGCTR is designed to transmute spent nuclear fuel from conventional reactors, effectively recycling nuclear waste and reducing its long-term radiotoxicity. This process helps minimize the environmental impact of nuclear energy and contributes to a more sustainable fuel cycle.
-
-This project leverages advanced modeling and simulation tools, such as OpenMC, to optimize the reactor design and ensure safe and efficient operation.
-
 ## Vision and Mission
 
 PQAR aims to push the boundaries of nuclear technology through cutting-edge research and development. The projects under PQAR focus on creating sustainable and efficient energy solutions while addressing the challenges of nuclear waste management and advancing our understanding of atomic science.
