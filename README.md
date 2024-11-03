@@ -2,19 +2,14 @@
 
 **PQAR** (Plex Quantum Atomic Research) is a research project dedicated to advancing nuclear technology and energy solutions. The focus is on innovative nuclear systems, including reactor designs and particle accelerators, to address energy efficiency, waste management, and scientific research.
 
-## PQAR Projects
+## Projects
 
-### 1. **IB-CLS (Internal Busy-Core Linux System)**
-   - A custom Linux operating system tailored for a wide range of hardware applications, from Raspberry Pi devices to industrial equipment. It is based on Tiny-Core Linux with BusyBox, designed for internal use within PQAR.
+PQAR is currently developing the **HGCTR (Hybrid Gas Cooled Transmutation Reactor)**. This innovative reactor design aims to:
 
-### 2. **MMTR-2380 (Modular Magnox Type Reactor 2380)**
-   - A modular, small-scale Magnox reactor designed for research purposes. It utilizes pure U-238 natural uranium fuel within zirconium rods and is moderated by graphite. MMTR-2380 is focused on radiation testing and research.
+* **Generate a significant amount of clean energy:** The HGCTR utilizes a gas-cooled fast reactor design for efficient heat transfer and power generation.
+* **Process spent nuclear fuel:** The HGCTR is designed to transmute spent nuclear fuel from conventional reactors, effectively recycling nuclear waste and reducing its long-term radiotoxicity. This process helps minimize the environmental impact of nuclear energy and contributes to a more sustainable fuel cycle.
 
-### 3. **MRPA (Modular Research Particle Accelerator)**
-   - A particle accelerator designed for modular research applications. MRPA is intended for advanced studies in particle physics and related fields, providing flexibility for various experimental setups.
-
-### 4. **TPR (Transmutation Power Reactor)**
-   - An innovative nuclear reactor designed for efficient energy generation and nuclear waste management. The TPR transmutates long-lived radioactive isotopes into shorter-lived or stable elements, reducing the environmental impact of nuclear waste while generating power.
+This project leverages advanced modeling and simulation tools, such as OpenMC, to optimize the reactor design and ensure safe and efficient operation.
 
 ## Vision and Mission
 
@@ -33,7 +28,7 @@ For inquiries or further information, please visit [pqar.net](https://pqar.net) 
 ## Credits
 
 - **Nuclear Technology Contributors**: Thanks to all researchers and engineers contributing to the PQAR projects.
-- **Open Source Community**: Leveraging open-source technologies in the development of IB-CLS and other PQAR projects.
+- **Open Source Community**: Leveraging open-source technologies in the development of HGCTR and other PQAR projects.
   
 ## Contributing
 
